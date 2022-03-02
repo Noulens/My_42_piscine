@@ -9,4 +9,4 @@ This is a no-cheat zone, so if you are a piscineu or a piscineuse, play by the r
 
 -Rush02 is 100% functional and was graded 105%.
 
-I have included the pdf for convenience, I did not wrote those and have no right on those. I will remove them if such a request were to be made by the owner.
+I have included the pdf for convenience, I did not write them and have no rights over these files. I will remove them if such a request were to be made by the owner.
