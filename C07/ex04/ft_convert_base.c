@@ -119,11 +119,3 @@ char	*ft_convert_base(char *nbr, char *base_from, char *base_to)
 	ft_putnbr_base(ft_atoi_base(nbr, base_from), base_to, nbr_base, l);
 	return (nbr_base);
 }
-
-/*#include <stdio.h>
-int	main(void)
-{
-	char str[] = "   -";
-
-	printf("%s", ft_convert_base(str, "0123456789abcdef", "0123456789"));
-}*/
