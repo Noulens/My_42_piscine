@@ -90,29 +90,3 @@ char	*ft_strjoin(int size, char **strs, char *sep)
 	ft_supercat(sct, strs, sep, size);
 	return (sct);
 }
-
-/*#include <stdio.h>
-
-int	main(void)
-{
-	char	sep[] = {"|||:D|||"};
-	char	*strs[4];
-	int		size = 0;
-
-	strs[0] = "Niiiiiiiiiiiiiiiiiiiiiiiiiiiice";
-	strs[1] = "join";
-	strs[2] = "dude";
-	strs[3] = "!";
-	printf("%s", ft_strjoin(size, strs, sep));
-	return (0);
-}*/
-
-/*#include <stdio.h>
-
-char *ft_strjoin(int size, char **strs, char *sep);
-
-int	main(int argc, char **argv)
-{
-	printf("./ex03/output___said___this___is___a___success :\n");
-	printf("%s\n",  ft_strjoin(argc, argv, "___"));
-}*/
